@@ -1,0 +1,7 @@
+Income, 5000, Salary, Monthly, 2025-05-01
+Expense, 150, Food, Lunch, 2025-05-02
+Expense, 700, Rent, Apartment, 2025-05-01
+Income, 200, Business, Freelance, 2025-05-10
+Expense, 100, Travel, Taxi, 2025-05-15
+Income, 1200, Salary, Bonus, 2025-05-20
+Expense, 300, Food, Grocery, 2025-05-22
