@@ -142,6 +142,7 @@ Enter year: 2025
 Total Income: 62800.00
 Total Expenses: 22515.00
 Net Balance: 40285.00
+
 Link:https://drive.google.com/file/d/1dA3-_qsx25LTE0zsBAnSbu_x9UHVMyvo/view?usp=sharing
 
 6)Expense Tracker Menu:
