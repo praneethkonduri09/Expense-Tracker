@@ -1,25 +1,4 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 package org.example;
-
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Scanner;
-
 
 import java.io.Serializable;
 import java.text.SimpleDateFormat;
@@ -41,26 +20,28 @@ public class Transaction implements Serializable {
     }
 
     public double getAmount() {
-        return this.amount;
+        return amount;
     }
 
     public String getCategory() {
-        return this.category;
+        return category;
     }
 
     public String getSubCategory() {
-        return this.subCategory;
+        return subCategory;
     }
 
     public String getType() {
-        return this.type;
+        return type;
     }
 
     public Date getDate() {
-        return this.date;
+        return date;
     }
 
     public String toString() {
-        return String.format("%s | %s | %.2f | %s > %s", (new SimpleDateFormat("yyyy-MM-dd")).format(this.date), this.type, this.amount, this.category, this.subCategory);
+        return String.format("%s | %s | %.2f | %s > %s",
+                new SimpleDateFormat("yyyy-MM-dd").format(date),
+                type, amount, category, subCategory);
     }
 }
