@@ -38,6 +38,7 @@ java ExpenseTracker
 Choose options from the menu to add/view/save your transactions.
 
 Screenshots:
+
 1)Expense Tracker Menu:
 1. Add Income
 2. Add Expense
@@ -51,6 +52,7 @@ Enter amount: 50000
 Enter date (yyyy-MM-dd) or press Enter to use today: 2025-05-01
 Transaction added.
 Link:https://drive.google.com/file/d/1Whi6V43AyjNZ1hDLIGWbo0mClhcv-uhp/view?usp=sharing
+
 2)Expense Tracker Menu:
 1. Add Income
 2. Add Expense
@@ -64,6 +66,7 @@ Enter amount: 20000
 Enter date (yyyy-MM-dd) or press Enter to use today: 2025-05-05
 Transaction added.
 Link:https://drive.google.com/file/d/1W-Z8q0N226NicjhZXgPliEz6aGqTjhU9/view?usp=sharing
+
 3)Expense Tracker Menu:
 1. Add Income
 2. Add Expense
@@ -89,6 +92,7 @@ Total Income: 56400.00
 Total Expenses: 21265.00
 Net Balance: 35135.00
 Link:https://drive.google.com/file/d/1SmLf3VpV9w_8kUaXW3nB93arLe_cSZ_x/view?usp=sharing
+
 4)Expense Tracker Menu:
 1. Add Income
 2. Add Expense
@@ -106,6 +110,7 @@ Transaction added.
 Transaction added.
 Data loaded from text file successfully.
 Link:https://drive.google.com/file/d/14_vKDWk6N7gMmNPI1gdOKP615Qy61pJv/view?usp=sharing
+
 5)Expense Tracker Menu:
 1. Add Income
 2. Add Expense
@@ -138,6 +143,7 @@ Total Income: 62800.00
 Total Expenses: 22515.00
 Net Balance: 40285.00
 Link:https://drive.google.com/file/d/1dA3-_qsx25LTE0zsBAnSbu_x9UHVMyvo/view?usp=sharing
+
 6)Expense Tracker Menu:
 1. Add Income
 2. Add Expense
